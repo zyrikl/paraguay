@@ -34,8 +34,13 @@
             }
             body {
                 background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1200px-Flag_of_Paraguay.svg.png");
-                background-size: cover;
+                background-size: contain;
                 padding: 0px;
+                -webkit-filter: blur(5px);
+                -moz-filter: brightness(50%);
+                -o-filter: brightness(50%);
+                -ms-filter: brightness(50%);
+                filter: brightness(50%);
             }
             #scroll-top {
                 position: fixed;
