@@ -1,7 +1,10 @@
+* {
+    margin: 0px;
+}
 #intro {
     background: white;
     margin: 0px;
-    margin-top: calc(100% - 100px);
+    margin-top: 800px;
     padding: 40px;
 }
 #title {
