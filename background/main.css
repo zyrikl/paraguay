@@ -1,6 +1,9 @@
 * {
     margin: 0px;
 }
+a {
+    font-size: 14pt;
+}
 p {
     font-size: 14pt;
     font-family: sans-serif;
@@ -21,7 +24,7 @@ p {
     color: black;
 }
 body {
-    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1200px-Flag_of_Paraguay.svg.png");
+    background: url("https://cdn.britannica.com/78/3378-050-13E41630/Paraguay-map-boundaries-cities-locator.jpg");
     background-size: contain;
     padding: 0px;
     padding-top: 50px;
