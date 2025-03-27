@@ -1,7 +1,7 @@
 #intro {
     background: white;
     margin: 0px;
-    margin-top: calc(100vh);
+    margin-top: calc(100vh - 100px);
     padding: 40px;
 }
 #title {
@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
 }
 body {
     background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1200px-Flag_of_Paraguay.svg.png");
