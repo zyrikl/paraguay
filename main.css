@@ -6,6 +6,8 @@
     margin: 0px;
     margin-top: 500px;
     padding: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 #title {
     font-size: 100pt;
