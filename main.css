@@ -1,6 +1,10 @@
 * {
     margin: 0px;
 }
+p {
+    font-size: 14pt;
+    font-family: sans-serif;
+}
 #intro {
     background: white;
     margin: 0px;
