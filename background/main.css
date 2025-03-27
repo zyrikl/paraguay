@@ -25,7 +25,7 @@ p {
 }
 body {
     background: url("https://cdn.britannica.com/78/3378-050-13E41630/Paraguay-map-boundaries-cities-locator.jpg");
-    background-size: contain;
+    background-size: cover;
     padding: 0px;
     padding-top: 50px;
 }
@@ -47,6 +47,7 @@ button {
     border: none;
     background: rgba(0, 0, 0, 0);
     color: white;
+    text-shadow: 1px 1px 2px 1px black;
 }
 button:hover {
     cursor: pointer;
