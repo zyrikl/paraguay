@@ -25,7 +25,7 @@ p {
 }
 body {
     background: url("https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSIOhfx5_C0u9_PhuOPjCn2xWhAJb7_fsEKePUumd7wkYoX3u_MFBEyP__DTemb0Y05j7cPTxk9gjT_4jM");
-    background-size: contain;
+    background-size: cover;
     padding: 0px;
     padding-top: 50px;
 }
