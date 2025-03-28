@@ -69,4 +69,6 @@ button:hover {
 pre {
     font-family: sans-serif;
     font-size: 14pt;
+    /* Since pre does not support wrapping, we add it ourselves */
+    text-wrap: wrap;
 }
